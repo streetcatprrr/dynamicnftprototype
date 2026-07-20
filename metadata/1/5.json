@@ -1,0 +1,10 @@
+{
+  "name": "Romeo Streetcat #1",
+  "description": "A real cat from the Streetcat colony. This artwork sharpens as the colony's fundraising campaign progresses, reaching full resolution when the goal is met. Stage 5 of 12.",
+  "image": "https://streetcatprrr.github.io/dynamicnftprototype/images/1/5.jpg",
+  "attributes": [
+    { "trait_type": "Cat", "value": "Romeo" },
+    { "trait_type": "Reveal Stage", "value": 5 },
+    { "trait_type": "Max Stage", "value": 12 }
+  ]
+}
